@@ -4,7 +4,5 @@
 ## &#x1f4c8; GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=qasimabdullah404&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimabdullah404&theme=blue-green)
-
 ---
 **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
